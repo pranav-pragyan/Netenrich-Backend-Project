@@ -1,0 +1,7 @@
+fastapi==0.95.1
+sqlalchemy==1.4.29
+datetime==5.1
+pydantic==1.10.7
+jose==3.3.0
+passlib==1.7.4
+python-dotenv=1.0.0
